@@ -1,0 +1,42 @@
+.section-padding {
+	padding-top: 1em;
+}
+
+.section-background {
+	background-color: #337AB7;
+}
+
+.header-font {
+	font-family: Michroma;
+	font-size: 26px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 28.6px;
+}
+
+.content-card {
+	margin-top: 1em;
+}
+
+
+.content-card .mixcard-body {
+	padding: 1.25em;
+}
+
+.card-title {
+	white-space: nowrap;	
+}
+
+.card-text {
+	padding-top: 0.5em;	
+}
+
+.btn-sm {
+	line-height: 1.0em;
+}
+
+.download-button {
+	width: 6em;
+}
+
